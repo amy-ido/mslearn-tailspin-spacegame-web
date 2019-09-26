@@ -1,0 +1,7 @@
+organization=amy-ido
+projectKey=space-game-web-925
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.884
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-925
+ceTaskId=AW1quPi6_U8_wUNe36oY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1quPi6_U8_wUNe36oY
