@@ -1,5 +1,8 @@
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-925&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-925)
+
 [![Build Status](https://dev.azure.com/Tailspin3000/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/amy-ido.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin3000/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=6&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
